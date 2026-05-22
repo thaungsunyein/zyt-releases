@@ -6,5 +6,17 @@
         <description>Most recent updates to Zyt</description>
         <language>en</language>
         <!-- Releases appear below, newest first. Each entry is added by the release script. -->
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Fri, 22 May 2026 14:36:32 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/thaungsunyein/zyt-releases/releases/download/v1.0-build2/Zyt-1.0-build2.dmg"
+                length="1863152"
+                type="application/octet-stream"
+                sparkle:edSignature="kaAiOHMXN5JKwL7jpSmcgahDxMf/hr1lgYQ0swkk7fiQglTBMMsRe/hF0ZCj1IzNeKxpjTinMD1Zz8xfj9GODQ==" length="1863152" />
+        </item>
     </channel>
 </rss>
