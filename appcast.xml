@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Zyt</title>
+        <link>https://raw.githubusercontent.com/thaungsunyein/zyt-releases/main/appcast.xml</link>
+        <description>Most recent updates to Zyt</description>
+        <language>en</language>
+        <!-- Releases appear below, newest first. Each entry is added by the release script. -->
+    </channel>
+</rss>
