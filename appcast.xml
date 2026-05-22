@@ -17,5 +17,16 @@
                 type="application/octet-stream"
                 sparkle:edSignature="kaAiOHMXN5JKwL7jpSmcgahDxMf/hr1lgYQ0swkk7fiQglTBMMsRe/hF0ZCj1IzNeKxpjTinMD1Zz8xfj9GODQ==" length="1863152" />
         </item>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Fri, 22 May 2026 14:54:10 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/thaungsunyein/zyt-releases/releases/download/v1.0-build3/Zyt-1.0-build3.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="gseXm7RDdmGOFF9WVJ6ii5tms9HYQYMjx/L/lpntplv3F9Im6JYNsfT1b3e1rKZTcKqR9a31NDXPLTt63fY0CQ==" length="1874737" />
+        </item>
     </channel>
 </rss>
