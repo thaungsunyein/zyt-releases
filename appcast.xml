@@ -127,5 +127,17 @@
                 type="application/octet-stream"
                 sparkle:edSignature="e6qEdpznWgrZoXmgrG9C66BXqCVajFwTULfQ6K/5MDPOeFpz4CT5hp1CJ3Dx/Yx8+KNZa8GOghLdeiU3op8RCQ==" length="1975270" />
         </item>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Wed, 28 Oct 2026 20:56:18 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Events that last a day or more, like a multi-day &quot;Out of office&quot;, now show under All Day instead of &quot;now&quot;, and no longer take over the menu bar.</li><li>Zyt refreshes your meetings as soon as your Mac wakes from sleep.</li><li>New setting: how often the menu bar switches between meetings (3–15 seconds, Settings → General). Long titles are shortened without cutting off the countdown.</li><li>The &quot;Synced&quot; time in Zyt&#x27;s menu now reads &quot;just now&quot; or &quot;4 min ago&quot; instead of ticking every second.</li></ul>]]></description>
+            <enclosure
+                url="https://github.com/thaungsunyein/zyt-releases/releases/download/v1.0-build13/Zyt-1.0-build13.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="CtRAGrpB6FYuJmrKIuMSp6rC1yCee7xYdfG7jbzmyiv84UPYLR8iVOJiPQC2sJf/eVnFvrizWP188GAK4pLBDg==" length="1978668" />
+        </item>
     </channel>
 </rss>
